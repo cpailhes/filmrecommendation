@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser app.ipynb --enable_nbextensions=True
+web: voila --port=$PORT --no-browser --template=material app.ipynb --enable_nbextensions=True
